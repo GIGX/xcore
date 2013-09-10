@@ -8,7 +8,7 @@ X-CORE is the bridge between anything, anywhere. The X at the beginning of the n
 ## Requirements - Running
 
 * [node.js](http://nodejs.org/)
-* [nano - npm install nano](https://github.com/dscape/nano)
+* [nano](https://github.com/dscape/nano) - npm install nano
 * [CouchDB](http://couchdb.apache.org/)
 
 ## Requirements - Testing
