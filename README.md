@@ -8,6 +8,8 @@ X-CORE is the bridge between anything, anywhere. The X at the beginning of the n
 ## Requirements - Running
 
 * [node.js](http://nodejs.org/)
+* [nano - npm install nano](https://github.com/dscape/nano)
+* [CouchDB](http://couchdb.apache.org/)
 
 ## Requirements - Testing
 
@@ -17,6 +19,7 @@ X-CORE is the bridge between anything, anywhere. The X at the beginning of the n
 ## Installation
 
 * Download and install node.js
+* Download and install CouchDB
 * Download and put the xcore application where required
 * Update your server settings: /server_settings.json
 * Navigate to the installation and run the app using 'node ./node/run.js' or 'node ./node/run.js -P <your_project_name>'
