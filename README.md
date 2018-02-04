@@ -13,7 +13,7 @@ X-CORE is the bridge between anything, anywhere. The X at the beginning of the n
 
 ## Requirements - Testing
 
-* [Mocha](http://visionmedia.github.com/mocha/)
+* [Mocha](http://mochajs.org/)
 * [Should](https://github.com/visionmedia/should.js)
 
 ## Installation
